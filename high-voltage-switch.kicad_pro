@@ -52,7 +52,132 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "extra_footprint|124000000|119000000|9ea80563-ca61-4da8-af56-1f5f08355397|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "extra_footprint|124000000|55000000|b49e6669-b764-4f29-8130-7c1d8c5f31ab|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "extra_footprint|55000000|119000000|ec5b8504-ec93-406c-89b9-7d2d85addce5|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "extra_footprint|55000000|55000000|70767fe5-14c2-436f-becd-f5f47d941b5a|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "footprint_filters_mismatch|107000000|57000000|d54fc7aa-f45a-44c4-b6b5-7f50be0d38c9|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "footprint_filters_mismatch|122000000|83500000|9b05353a-5976-4cfe-ba2b-da290af46aaf|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "footprint_filters_mismatch|65500000|57000000|555c75a2-59df-453b-9ad0-977e31529943|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|52900000|107000000|6da78b17-b5d6-421a-9cac-dffc51e2b43e|7b4947ed-afaf-4de3-b206-fb7697ad989c",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|52900000|94300000|a0be8fc6-9b9b-48dc-8a0f-56d0c104c1f1|7b4947ed-afaf-4de3-b206-fb7697ad989c",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|57000000|107000000|9113753a-cc33-4bb4-9c02-d4e2d5b0914a|7b4947ed-afaf-4de3-b206-fb7697ad989c",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|57000000|94300000|bb180e47-a204-4d6e-a176-82440053067f|7b4947ed-afaf-4de3-b206-fb7697ad989c",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|61000000|107000000|36370b6b-3bd6-48f0-a9ba-2a6dd497fafd|7b4947ed-afaf-4de3-b206-fb7697ad989c",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|61000000|94300000|23d677ff-9663-4087-a53e-17f55beffea9|7b4947ed-afaf-4de3-b206-fb7697ad989c",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|65000000|107000000|67f04c6c-06f6-4aff-b274-76bf8d043d1b|7b4947ed-afaf-4de3-b206-fb7697ad989c",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|65000000|94300000|2dc533cb-e722-4bff-bab4-20fb1aea540b|7b4947ed-afaf-4de3-b206-fb7697ad989c",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|69650000|102000000|01911b24-43e1-4869-bf75-767188c90b3a|7b4947ed-afaf-4de3-b206-fb7697ad989c",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|69650000|106000000|19422157-21b4-4137-8f5f-9dc3c54a8e6f|7b4947ed-afaf-4de3-b206-fb7697ad989c",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|69650000|94000000|100427b4-c12e-4b39-86bb-58088a1e1b2b|7b4947ed-afaf-4de3-b206-fb7697ad989c",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|69650000|98000000|42136569-b723-4e67-9d72-3ae939c3e763|7b4947ed-afaf-4de3-b206-fb7697ad989c",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|82350000|102000000|288d8ffe-e6ad-482f-bd30-9d457c5f1ee0|7b4947ed-afaf-4de3-b206-fb7697ad989c",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|82350000|106000000|da496cb3-efda-4610-9a7b-fabe8ffacbe9|7b4947ed-afaf-4de3-b206-fb7697ad989c",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|82350000|94000000|0e80f5c5-3f21-4bd7-8a36-62afaaef6f6e|7b4947ed-afaf-4de3-b206-fb7697ad989c",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|82350000|98000000|58c65fe6-d971-41f4-a9aa-82b601935536|7b4947ed-afaf-4de3-b206-fb7697ad989c",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|86300000|103000000|217e277e-ed89-49b7-8905-45ce9246fb00|7b4947ed-afaf-4de3-b206-fb7697ad989c",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|86300000|107000000|fa3f89d7-5305-441c-ad9a-47dde7ef9600|7b4947ed-afaf-4de3-b206-fb7697ad989c",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|86300000|95000000|3467860f-abad-49ef-a718-187c887ca95d|7b4947ed-afaf-4de3-b206-fb7697ad989c",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|86300000|99000000|ab6040f3-cce9-43c0-8f17-b662371befbc|7b4947ed-afaf-4de3-b206-fb7697ad989c",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|99000000|103000000|019c5410-6c8d-49e6-b718-d83843d52bec|7b4947ed-afaf-4de3-b206-fb7697ad989c",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|99000000|107000000|96818d5c-c3ad-44e3-b97d-4b8e18b3c321|7b4947ed-afaf-4de3-b206-fb7697ad989c",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|99000000|95000000|e042e7ea-c65b-47a7-9eaa-7d2c99b9b21b|7b4947ed-afaf-4de3-b206-fb7697ad989c",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|99000000|99000000|bac2209f-7395-4fe4-9379-2db1e155c4ae|7b4947ed-afaf-4de3-b206-fb7697ad989c",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -70,9 +195,9 @@
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
         "footprint": "error",
-        "footprint_filters_mismatch": "ignore",
+        "footprint_filters_mismatch": "warning",
         "footprint_symbol_mismatch": "warning",
-        "footprint_type_mismatch": "ignore",
+        "footprint_type_mismatch": "warning",
         "hole_clearance": "error",
         "hole_to_hole": "warning",
         "holes_co_located": "warning",
@@ -86,13 +211,13 @@
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "mirrored_text_on_front_layer": "warning",
-        "missing_courtyard": "ignore",
+        "missing_courtyard": "warning",
         "missing_footprint": "warning",
         "net_conflict": "warning",
         "nonmirrored_text_on_back_layer": "warning",
-        "npth_inside_courtyard": "ignore",
+        "npth_inside_courtyard": "warning",
         "padstack": "warning",
-        "pth_inside_courtyard": "ignore",
+        "pth_inside_courtyard": "warning",
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
         "silk_over_copper": "warning",
@@ -226,7 +351,20 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "footprint_link_issues|1854200|1181100|646e3f39-20a2-4c51-9c5b-36201ff8bbdb|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ],
+      [
+        "footprint_link_issues|2108200|1371600|df5f49c4-eca4-4eab-945f-1df063c06009|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ],
+      [
+        "footprint_link_issues|419100|1333500|a23577d1-a2e1-4011-98ae-2f4c5fa15f74|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -411,9 +549,9 @@
       "duplicate_sheet_names": "error",
       "endpoint_off_grid": "warning",
       "extra_units": "error",
-      "footprint_filter": "ignore",
+      "footprint_filter": "warning",
       "footprint_link_issues": "warning",
-      "four_way_junction": "ignore",
+      "four_way_junction": "warning",
       "global_label_dangling": "warning",
       "hier_label_mismatch": "error",
       "label_dangling": "error",
@@ -430,14 +568,14 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
       "similar_power": "warning",
-      "simulation_model_issue": "ignore",
-      "single_global_label": "ignore",
+      "simulation_model_issue": "warning",
+      "single_global_label": "warning",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
       "unit_value_mismatch": "error",
@@ -509,7 +647,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerber-v1.0",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
